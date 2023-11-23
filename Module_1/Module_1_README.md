@@ -19,7 +19,7 @@ Purpose: For your first demonstration video assignment, create and share a demo 
 - Once generated, the instance can be deleted with the “More Actions” settings in the list of all the VM Instances
 
 # Amazon Web Services (AWS) Notes
-[Click here for Module 1 AWS Video](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=42157156-b5df-48bb-86ac-b08401812692)
+[Click here for Module 1 AWS Video](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50cb1e6f-d55a-4ef2-b912-b0850002c73a)
 
 - Search and launch EC2 tool
 - Choose launch instance
