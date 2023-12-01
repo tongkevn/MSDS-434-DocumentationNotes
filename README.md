@@ -1,6 +1,6 @@
 # MSDS-434-DocumentationNotes
 
-This repository holds the documentation notes MSDS 434 at Northwestern University. Video recordings are linked in each module's README markdown so that a viewer may follow along with the documentations.
+This repository holds the documentation notes for MSDS 434 at Northwestern University. Video recordings are linked in each module's README markdown so that a viewer may follow along with the documentations.
 
 The module topics are listed below:
 
